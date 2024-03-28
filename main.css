@@ -64,7 +64,7 @@ header{
     border-radius: 0px 4px 4px 0px ;
 }
 #action_bar{
-    margin-left: 4px;
+    margin-left: 30px;
     display: flex;
     min-width: 200px;
     justify-content: space-between;
